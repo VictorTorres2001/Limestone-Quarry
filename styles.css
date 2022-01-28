@@ -1,0 +1,153 @@
+/*main*/
+
+body {
+    background: #DBD4CE;
+  }
+  div {
+    display: block;
+  }
+  
+  h1 {
+    font-family: 'Ubuntu Mono', monospace;
+    font-weight: 700;
+    font-size: 40px
+  }
+  
+  h2 {
+    font-family: 'Staatliches', cursive;
+    font-weight: bold;
+    font-size: 30px
+  }
+  
+  p {
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 20px;
+  }
+  
+  li {
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 20px;
+  }
+  
+  /*Color*/
+  
+  .color {
+    background: #D0AED1;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px auto;
+    box-shadow: 9px 9px 2px 1px black, 10px 10px 5px 5px #D0AED1;
+  }
+  
+  .container {
+    width: 100%;
+  }
+  
+  .ocean-blue {
+    color: white;
+    border: 1px solid black;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background: #544FDB;
+  }
+  
+  .gray {
+    border: 1px solid black;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background: #DBD4CE;
+  }
+  
+  .dull-pink {
+    border: 1px solid black;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background: #D0AED1;
+  }
+  
+  .sky-blue {
+    border: 1px solid black;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background: #39C6DB;
+  }
+  
+  .lime {
+    border: 1px solid black;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background: #89DB53;
+  }
+  
+  /*font*/
+  
+  .fonts {
+    background: #D0AED1;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px auto;
+    box-shadow: 9px 9px 2px 1px black, 10px 10px 5px 5px #D0AED1;
+  }
+  
+  .ubuntu-mono {
+    display: inline-block;
+    width: 50%;
+    margin: 20px auto;
+    min-height: 100px;
+    padding: 0 20px;
+    font-family: 'Ubuntu Mono', monospace;
+  }
+  
+  .staatliches {
+    display: inline-block;
+    width: 50%;
+    margin: 20px auto;
+    min-height: 100px;
+    padding: 0 20px;
+    font-family: 'Staatliches', cursive;
+  }
+  
+  .archivo-narrow {
+    display: inline-block;
+    width: 50%;
+    padding: 0 20px;
+    margin: 20px auto;
+    min-height: 100px;
+    font-family: 'Archivo Narrow', sans-serif;
+  }
+  
+  .underline {
+   text-decoration: underline;
+  }
+  
+  .bold {
+   font-weight: bold;
+  }
+  
+  .italics {
+    font-style: italic;
+  }
+  
+  /*Font style*/
+  .text-styles {
+    background: #D0AED1;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px auto;
+    box-shadow: 9px 9px 2px 1px black, 10px 10px 5px 5px #D0AED1;
+  }
