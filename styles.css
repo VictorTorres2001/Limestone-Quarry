@@ -7,22 +7,6 @@ body {
     display: block;
   }
   
-  h1 {
-    font-family: 'Ubuntu Mono', monospace;
-    font-weight: 700;
-    font-size: 40px
-  }
-  
-  h2 {
-    font-family: 'Staatliches', cursive;
-    font-weight: bold;
-    font-size: 30px
-  }
-  
-  p {
-    font-family: 'Archivo Narrow', sans-serif;
-    font-size: 20px;
-  }
   
   li {
     font-family: 'Archivo Narrow', sans-serif;
@@ -104,7 +88,7 @@ body {
     box-shadow: 9px 9px 2px 1px black, 10px 10px 5px 5px #D0AED1;
   }
   
-  div.ubuntu-mono {
+  .ubuntu-mono {
     display: inline-block;
     width: 50%;
     margin: 20px auto;
@@ -113,7 +97,7 @@ body {
     font-family: 'Ubuntu Mono', monospace;
   }
   
-  div.staatliches {
+  .staatliches {
     display: inline-block;
     width: 50%;
     margin: 20px auto;
@@ -122,7 +106,7 @@ body {
     font-family: 'Staatliches', cursive;
   }
   
-  div.archivo-narrow {
+   .archivo-narrow {
     display: inline-block;
     width: 50%;
     padding: 0 20px;
